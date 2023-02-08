@@ -10,3 +10,5 @@ class Konto:
 
     def wyplata(self, kwota):
         pass
+
+print("whatever")

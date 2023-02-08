@@ -12,3 +12,8 @@ Konto(saldo:1700PLN)
 ```
 
 Zmiany można wprowadzać jedynie w pliku **konto.py** i tylko ten plik należy przesłać jako rozwiązanie.
+
+
+print("jajaja")
+
+# to jest komentarz
