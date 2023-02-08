@@ -11,3 +11,4 @@ class Konto:
     def wyplata(self, kwota):
         pass
 
+#dodany komentarz
